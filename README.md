@@ -48,7 +48,7 @@ Applied `FLOOR` logic in a calculated column to bucket years into 10-year interv
 ---
 
 ## How to View
-1. Download the `Fight_Dashboard.pbix` file found in this folder.  
+1. Download the `Jan_2026_Fight_Log_Dashboard.pbix` file found in this folder.  
 2. Open using **Power BI Desktop**.  
 3. Alternatively, refer to `Jan_2026_Fight_Log_Dashboard.pdf` for a static overview of the design and layout.
 
