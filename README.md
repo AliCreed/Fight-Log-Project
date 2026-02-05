@@ -3,6 +3,8 @@
 ## Project Overview
 This interactive **Power BI dashboard** was designed to track and analyze personal fight-viewing habits throughout **January 2026**. The project focuses on visualizing combat sports data across multiple sports and eras, providing deep insights into fighter appearances, promotion trends, and total viewing time.
 
+**Github Link:** https://github.com/AliCreed/Fight-Log-Project
+
 ---
 
 ## Key Features & Technical Challenges
